@@ -1,0 +1,47 @@
+.Overskrift {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    border-radius: 5%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.button {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    border-radius: 5%;
+    margin-left: 5px;
+}
+
+.Rolle {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    border: 1px solid green;
+    border-radius: 5%;
+    margin: 0px 200px;
+    padding: 5px 0px;
+}
+
+.container_2 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+#container_img {
+    margin-left: 10px;
+}
+#container_imgg {
+    width: 200px;
+    height: auto;
+    border-radius: 5%;
+}
+.container_info {
+    margin-left: 10px;
+}
